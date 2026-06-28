@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1c0011/krp/v1/juan/14
+seq: 14
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1c0011_WYG_014-1a, image: WYG0070/WYG0070-0586a.png}
+body:
+  text: 毛詩名物解卷十四宋集解釋馬駰驪駽駓驔驒騏驄魚騢馰騮驈駱騅驤馵自駰至馵駰隂白也馬火畜也隂白䝉之有因之義因猶姻也驪黑也馬火畜也麗乎黑也駽青驪也馬火畜也以青為所生以黑為所麗既得所生又得所麗有㫖之意駓黃白雜色也靜而中者黃之道動而變者王之事雜故變變故大王者大也皇所出也不一而大為丕駓有雜意驔豪骭也豪覃乎闕驒青驪驎也驒文若鼉騏若綦驄若葱騢若霞馰若的騮赤鳥黑鬛也赤黑闕也以赤闕黑為得其匹留而不行驈黑馬白胯也白黑母也以白下黑為從其子述而不作胯志在隨者也駱白馬黑鬛也為子勝母雒黑馬白鬛也為母勝子乖異之道故皆從各母從子者也勝為上逆故又從隹馵後足白也右震也震為作足又為馵足其為作足陽也其為馵足隂也隂不動故為後左白者隂也二者陽也當震之時隂不違陽也故二焉與白同意毛詩名物解卷十四
+  hash: sha256:c41b0ddbf60c2b8bc7ab6510cdcebdec4596b1aab7c64fb88cbc5d9b48a5be4e
+metadata:
+  title: 毛詩名物解
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:04:30.037886'
+  juan_title: 卷十四
+  source:
+    repository: kanripo
+    path: KR1c0011/KR1c0011_014.txt
+hash: sha256:85201b17fe7ba7ea39e49424c5b3998895041d730a24f89f9a8ee2188877e2a5
